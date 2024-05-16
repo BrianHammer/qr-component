@@ -11,7 +11,6 @@ module.exports = {
         "grayish-blue": "hsl(220, 15%, 55%)",
         "dark-blue": "hsl(218, 44%, 22%)"
       },
-      
     },
     fontFamily: {
         abc: ["Poppins"]

@@ -14,3 +14,8 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+# Avoid the large build 
+# output.css - Removed as I need to deploy with github pages
+README-project.md
+design/
